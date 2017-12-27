@@ -76,6 +76,11 @@ body a:hover,body a:focus {
 {
  margin-left: 40px;
 }
+#bg9
+{
+    width: 100%;
+}
+
 .header-w3layoutstop p span.glyphicon{
     margin-right: 5px;
 }
@@ -354,6 +359,35 @@ h5.w3l-subtitle {
 {
     font-size: 20px;
     color:#fff;
+}
+.caption
+{
+    margin-left: 50px;
+}
+ .thumbnail {
+    position: relative;
+}
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+.c2
+{
+    margin-left: -0px;
+}
+.thumbnail .img-responsive
+{
+    margin-left: 60px;
+}
+.caption h2
+{
+    color: #b549d6;font-size: 40px;
+}
+.caption p
+{
+    font-weight: bold;
 }
 .services-w3text i.fa {
     font-size: 2em;
